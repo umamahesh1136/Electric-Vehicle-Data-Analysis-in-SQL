@@ -7,18 +7,6 @@ Certainly! Here's an updated README with emojis and a dataset overview section:
 
 This project conducts a comprehensive analysis of electric vehicle (EV) data using SQL queries. It aims to uncover insights into trends, performance, and market dynamics in the EV industry, providing valuable information for manufacturers, policymakers, and consumers.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Dataset Overview](#dataset-overview)
-- [Methodology](#methodology)
-- [Key Queries](#key-queries)
-- [Key Findings](#key-findings)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction 🚀
 
 The rapid adoption of electric vehicles has generated a wealth of data. This project utilizes SQL to analyze this data, exploring key metrics and uncovering patterns in the EV market.
